@@ -1,0 +1,9 @@
+.line-chart-container {
+    width: 80%;
+    margin-bottom: 5%;
+}
+@media screen and (max-width: 770px) {
+    .line-chart-container {
+        width: 100%;
+    }
+}
